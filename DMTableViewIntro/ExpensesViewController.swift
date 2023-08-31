@@ -20,7 +20,7 @@ class ExpensesViewController: UIViewController {
     /**
      You will be displaying these expenses in the UITableView. You do not need to modify this code.
      */
-    let expenses = ["Rent", "Groceries", "Utilities", "Transportation", "Entertainment", "Clothing", "Eating Out", "Travel", "Insurance", "Phone Bill"]
+    let expenses = ["Rent", "Groceries", "Utilities", "Transportation", "Entertainment", "Clothing", "Eating Out", "Travel", "Insurance", "TV"]
 
     /**
      3. This function will get called automatically as soon as the screen loads. Call the `configureTableView` function.
